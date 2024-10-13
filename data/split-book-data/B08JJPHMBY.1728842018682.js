@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Join bestselling authors Brandon Sanderson and Dan Wells as they search for the perfect podcast name and talk about the weird things they love—such as food heists, the perfect popcorn salt, and whether any art can truly be perfect. Listen for commentary on movies, TV shows, books, video games, and wherever else their conversation leads them."; 

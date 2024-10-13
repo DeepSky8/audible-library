@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Esmeralda, Quasimodo, Fleur de Lys, Frolo, autant de noms qui résonnent au-delà des siècles. Sans cesse incarnés sous toutes les formes possibles, les personnages de Victor Hugo appartiennent au patrimoine littéraire mondial."; 
